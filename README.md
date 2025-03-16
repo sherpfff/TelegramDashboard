@@ -37,9 +37,7 @@ Telegram Dashboard предоставляет удобный интерфейс 
 
 ### **Шаг 1: Клонирование репозитория**
 
-```bash
-git clone https://github.com/ваш_профиль/telegram-dashboard.git
-cd telegram-dashboard
+```
 ```
 
 ### **Шаг 2: Установка зависимостей**
